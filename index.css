@@ -1,0 +1,21 @@
+h1 {
+    }
+
+.header {
+    font-size: 40px;
+    color: #6fff5f;
+}
+
+#tagh3 {
+    font-size: 10px;
+}
+
+div > p {
+    color: #6fff5f;
+}
+
+
+
+#data_table {
+  border: thin ;
+}
